@@ -1,4 +1,4 @@
-<p align="center"><a href="https://magic-folio.vercel.app"><img width="80%" alt="Hello, I'm Pratul.Learning new things to build!" src="./assets/gh-readme.png" /></a></p>
+<p align="center"><a href="https://magic-folio.vercel.app"><img width="60%" alt="Hello, I'm Pratul.Learning new things to build!" src="./assets/gh-readme.png" /></a></p>
 
 <br />
 
