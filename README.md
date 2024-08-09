@@ -14,13 +14,12 @@ I'm a passionate Full Stack developer from India 🇮🇳
 
 - 💬 Ask me about anything [here](https://www.linkedin.com/in/pratul-makar/)
 
-<code>
+
 <img
 src="https://skillicons.dev/icons?i=html,css,bootstrap,js,c,py,anaconda,java,spring,eclipse,maven,hibernate,idea,express,ubuntu,figma,vscode,git,github,gmail,linux,vercel,vite,materialui,tailwind,mongodb,mysql,nodejs,react,redis,redux,nextjs,npm,postman,threejs,powershell,typescript"
 alt="Pratul02"
 loading="lazy"
- />
-</code>   
+ />  
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
