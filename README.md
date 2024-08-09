@@ -1,14 +1,14 @@
-<p align="center"><a href="https://magic-folio.vercel.app"><img width="80%" alt="Hello, I'm Pratul. I do open source!" src="./assets/gh-readme.png" /></a></p>
+<p align="center"><a href="https://magic-folio.vercel.app"><img width="80%" alt="Hello, I'm Pratul.Learning new things to build!" src="./assets/gh-readme.png" /></a></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a passionate Full Stack developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 👩‍💻 Full Stack Dev
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 📈 Student at Gargi Memorial Institute Of Technology([click](https://gmitkolkata.org/))
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
