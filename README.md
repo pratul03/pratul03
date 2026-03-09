@@ -1,25 +1,85 @@
-<p align="center"><a href="https://magic-folio.vercel.app"><img width="60%" alt="Hello, I'm Pratul.Learning new things to build!" src="./assets/gh-readme.png" /></a></p>
+<h1 align="center">Hi 👋, I'm Pratul</h1>
+<h3 align="center">Full Stack Developer from India 🇮🇳</h3>
 
-<br />
+<p align="center">
+Building scalable web applications • Backend systems • Modern UI
+</p>
 
-I'm a passionate Full Stack developer from India 🇮🇳
+---
 
-**About me**
+## 🚀 About Me
 
-- 👩‍💻 Full Stack Dev at Tedekstra PVT Ltv 1+ years of experience from building scalable apps to cicd integrations
+- 👨‍💻 Full Stack Developer at **Tedekstra Pvt Ltd**
+- 💼 1+ years experience building **scalable backend systems**
+- ⚡ Experienced in **Express, TypeScript, Prisma, PostgreSQL**
+- ❤️ Love working with **Next.js & modern frontend tools**
+- 🧠 Interested in **system design, performance & devops**
+- 💬 Ask me anything on **LinkedIn**
 
-- ❤️ Love to work with NEXT JS.
+---
 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/pratul-makar/)
+## 🌐 Connect With Me
 
+<p align="center">
+<a href="https://www.linkedin.com/in/pratul-makar">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
-<img
-src="https://skillicons.dev/icons?i=html,css,bootstrap,js,c,py,anaconda,java,spring,eclipse,maven,hibernate,idea,express,ubuntu,figma,vscode,git,github,gmail,linux,vercel,vite,materialui,tailwind,mongodb,mysql,nodejs,react,redis,redux,nextjs,npm,postman,threejs,powershell,typescript"
-alt="Pratul02"
-loading="lazy"
- />  
+---
 
+# 🧰 Tech Stack
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-pratul02.vercel.app/api?username=pratul03&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false" alt="Pratul's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratul03&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false" /></a> |
-| ------------- | ------------- |
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,react,nextjs,nodejs,express,nestjs,tailwind,materialui,redux,zustand,mongodb,postgres,mysql,redis,prisma,docker,nginx,ubuntu,linux,git,github,vscode,postman,vercel,vite,figma" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pratul02&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratul02&theme=tokyonight&hide_border=true" width="48%" />
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratul02&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🏗 Current Focus
+
+- ⚡ High performance backend systems
+- 🧠 System Design
+- 📦 Scalable APIs with **NestJS / Express**
+- 🗄 Database optimization with **PostgreSQL**
+- 🚀 CI/CD & deployment pipelines
+- 🐳 Docker based deployments
+
+---
+
+# ⚡ Fun Fact
+
+> I enjoy turning complex backend systems into **simple scalable solutions** 🚀
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Pratul02&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
