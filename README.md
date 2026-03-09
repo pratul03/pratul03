@@ -6,9 +6,7 @@ I'm a passionate Full Stack developer from India 🇮🇳
 
 **About me**
 
-- 👩‍💻 Full Stack Dev
-
-- 👨‍🎓 Student at Gargi Memorial Institute Of Technology([GMIT](https://gmitkolkata.org/))
+- 👩‍💻 Full Stack Dev at Tedekstra PVT Ltv 1+ years of experience from building scalable apps to cicd integrations
 
 - ❤️ Love to work with NEXT JS.
 
