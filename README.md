@@ -10,10 +10,15 @@ Building scalable web applications • Cross Platform Mobile applications • Ba
 ## 🚀 About Me
 
 - 👨‍💻 Full Stack Developer at **Tedekstra Pvt Ltd**, till now **5+ Projects** completed till now.
+- 
 - 💼 1.5+ years experience building **Scalable Complete systems**
-- ⚡ Experienced in Backend technology **Express, TypeScript, NestJS , Redis, Web Socket Mongoose, MongoDB, Prisma, PostgreSQL, Java SpringBoot, JDBC, Spring Security**
+- 
+- ⚡ Experienced in Backend technology **Express, TypeScript, NestJS , Redis, Web Socket,Mongoose, MongoDB, Prisma, PostgreSQL, Java SpringBoot, JDBC, Spring Security**
+- 
 - ⚡ Experienced in Frontend technology with **React.js,React Native, Expo go, Nativewind,Tailwind css ,Zustand, Redux, Next.js, Server Component, Dynamic Routing, Virtualizations & modern frontend tools**
+- 
 - ⚡ Experienced in part of devOPs like **Azure Cloud, Azure Blob Containers,Azure Mail Services, Azure Graph API, MS Business Central Integration (SaaS) Digital Ocean Droplets**
+- 
 - 💬 Ask me anything on **LinkedIn**
 
 ---
