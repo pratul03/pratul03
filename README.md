@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Pratul</h1>
+<h1 align="center">Hi 👋, I'm Pratul Makae</h1>
 <h3 align="center">Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-Building scalable web applications • Backend systems • Modern UI
+Building scalable web applications • Cross Platform Mobile applications • Backend systems • Application Architecture • Modern UI
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Full Stack Developer at **Tedekstra Pvt Ltd**
-- 💼 1+ years experience building **scalable backend systems**
-- ⚡ Experienced in **Express, TypeScript, Prisma, PostgreSQL**
-- ❤️ Love working with **Next.js & modern frontend tools**
-- 🧠 Interested in **system design, performance & devops**
+- 👨‍💻 Full Stack Developer at **Tedekstra Pvt Ltd**, till now **5+ Projects** completed till now.
+- 💼 1.5+ years experience building **Scalable Complete systems**
+- ⚡ Experienced in Backend technology **Express, TypeScript, NestJS , Redis, Web Socket Mongoose, MongoDB, Prisma, PostgreSQL, Java SpringBoot, JDBC, Spring Security**
+- ⚡ Experienced in Frontend technology with **React.js,React Native, Expo go, Nativewind,Tailwind css ,Zustand, Redux, Next.js, Server Component, Dynamic Routing, Virtualizations & modern frontend tools**
+- ⚡ Experienced in part of devOPs like **Azure Cloud, Azure Blob Containers,Azure Mail Services, Azure Graph API, MS Business Central Integration (SaaS) Digital Ocean Droplets**
 - 💬 Ask me anything on **LinkedIn**
 
 ---
@@ -24,7 +24,7 @@ Building scalable web applications • Backend systems • Modern UI
 <a href="https://www.linkedin.com/in/pratul-makar">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:pratulmakar02@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
