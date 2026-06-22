@@ -45,9 +45,9 @@ Building scalable web applications • Backend systems • Modern UI
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pratulcodes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pratul03&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratulcodes&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratul03&theme=tokyonight&hide_border=true" width="48%" />
 
 </p>
 
