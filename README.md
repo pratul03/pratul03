@@ -86,5 +86,5 @@ Building scalable web applications • Cross Platform Mobile applications • Ba
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Pratul02&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=pratul03&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
