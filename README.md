@@ -40,7 +40,7 @@ Building scalable web applications • Cross Platform Mobile applications • Ba
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,typescript,react,nextjs,nodejs,express,nestjs,tailwind,materialui,redux,zustand,mongodb,postgres,mysql,redis,prisma,docker,nginx,ubuntu,linux,git,github,vscode,postman,vercel,vite,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,npm,typescript,react,nextjs,nodejs,express,nestjs,tailwind,materialui,redux,nginx,mongodb,postgres,mysql,redis,prisma,docker,nginx,ubuntu,linux,githubactions,azure,git,github,vscode,postman,vercel,vite,figma" />
 
 </p>
 
